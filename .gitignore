@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Playwright Cache
+.playwright/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/*.log
+
+# Browser Data
+browser_data/
+
+# Python Env
+.env
+
+# macOS
+.DS_Store
+
+# Excel Temporary
+~$*.xlsx
+
+# Pytest
+.pytest_cache/
+
+# Build
+dist/
+build/
+
+# IDE
+.idea/
